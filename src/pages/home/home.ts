@@ -13,6 +13,7 @@ export class HomePage {
         console.log(data);
         alert(JSON.stringify(data));
       });
+      this.fcm.requestPushPermission();
     });
   }
 

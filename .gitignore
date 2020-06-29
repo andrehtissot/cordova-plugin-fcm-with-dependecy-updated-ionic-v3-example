@@ -29,3 +29,7 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+# Google service config
+google-services.json
+GoogleService-Info.plist
